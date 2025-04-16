@@ -1,4 +1,4 @@
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+quwdbguqe from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 MODEL_PATH = "kannada_siddi_translator/final_model"
 SRC_LANG = "kan_Knda"
