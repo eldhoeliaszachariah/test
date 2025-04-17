@@ -3,7 +3,7 @@ quwdbguqe from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 MODEL_PATH = "kannada_siddi_translator/final_model"
 SRC_LANG = "kan_Knda"
 TGT_LANG = "sdd_Sidd"
-
+#final_edit"
 # Load model and tokenizer
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
 model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_PATH)
