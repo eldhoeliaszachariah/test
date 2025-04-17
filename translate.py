@@ -1,5 +1,5 @@
 quwdbguqe from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-
+#dfdfdsfsdfsdfsdf
 MODEL_PATH = "kannada_siddi_translator/final_model"
 SRC_LANG = "kan_Knda"
 TGT_LANG = "sdd_Sidd"
